@@ -1,3 +1,12 @@
+# 🌽 field notes
+
+|     |  |
+| ----------- | ---------------- | 
+| xx | xx |
+| xx | xx |
+| xx | xx |
+| xx | xx |
+
 # 🐡 reading list 
 
 |     |  |
