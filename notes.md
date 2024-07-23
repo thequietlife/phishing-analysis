@@ -2,7 +2,7 @@
 
 |     |  |
 | ----------- | ---------------- | 
-| xx | xx |
+| July 2024 | looking at URLscan, various articles - bleeping computer, search "scam text" on xitter - US election scams, romance scams - someone lost $10,000 recently, Akamai research |
 | xx | xx |
 | xx | xx |
 | xx | xx |
