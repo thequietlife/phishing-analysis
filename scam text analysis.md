@@ -7,3 +7,8 @@
 - Tolls
 - Gift cards
 - Romance baiting
+
+
+- Recruitment scam
+Notes:
+- 
