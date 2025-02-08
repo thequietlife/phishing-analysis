@@ -1,3 +1,3 @@
-### Threat research
+## Threat research
 
-## Analysing scam texts
+### Analysing scam texts
