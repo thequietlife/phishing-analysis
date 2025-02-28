@@ -2,7 +2,7 @@
 
 I did a search of scam texts during the week. I found the following scam texts:
 - fake interview
-- tax department
+- tax department (US tax time)
 - tolls
 - gift cards (steam/discord and one tied in with a romance baiting scam)
 
