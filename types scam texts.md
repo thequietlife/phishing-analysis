@@ -5,4 +5,4 @@
 - Dec 2024: Tolls
 - Oct 2024: Winter fuel payments (UK winter)
 - Sept 2024: Parking tickets
-- Jul 2024: Tolls (New York)
+- Jul 2024: Tolls (New York), US election fundraising
