@@ -2,7 +2,7 @@
 
 | Month    | Type  |
 | -------- | ------- |
-| Feb  | Steam (games), Tolls (Aus, US), Meeting invite for fake interview   |
+| Feb  | Steam (games), Tolls (Aus, US), Meeting invite for fake press interview, Job interview, IRS, gift cards (discord)   |
 | Jan | Tolls    |
 | Dec    | Tolls   |
 | Nov    | xx    |
