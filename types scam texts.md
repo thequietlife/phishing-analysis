@@ -15,6 +15,10 @@ Oct 2024:
 
 Sept 2024: 
 - Parking tickets
+- Tolls
+- Telstra Plus points (loyalty points)
+- Medicare (update personal details)
+- Tax (Aus, log in to read statement)
 
 Jul 2024: 
 - Tolls (New York)
