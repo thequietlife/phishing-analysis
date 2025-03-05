@@ -17,9 +17,16 @@ Our first step is to search for the URL on [VirusTotal](https://www.virustotal.c
 
 <img
 src="https://github.com/thequietlife/phishing-analysis/blob/a0fefdc829816250a0092d0d2f997074d9183dde/images/freegiftcard_VirusTotal.png"
-alt="VirusTotal screenshot for freegiftcodegenerator[.]com" width="300"/>
+alt="VirusTotal screenshot for freegiftcodegenerator[.]com URL search" width="300"/>
 
-When we add the URL on VirusTotal we can see the [IP address](https://www.virustotal.com/gui/ip-address/119.18.49.15/details) 
-and [URL](https://www.virustotal.com/gui/url/967a9ba159499f8a5821c0665a8b3bb0a0621e7bb7ba65b825e7792a6bf2cff9) have been marked malicious. 
+The search shows several security companies have marked the URL as malicious.
+When we select Details we can find the IP address:
+
+<img
+src="https://github.com/thequietlife/phishing-analysis/blob/13eed7dfcb483a08862415642125b6169d36b05b/images/freegiftcard_IP.png"
+alt="VirusTotal screenshot for freegiftcodegenerator[.]com IP address" width="300"/>
+
+The IP address has been marked as malicious.
+
 
 
