@@ -27,6 +27,10 @@ src="https://github.com/thequietlife/phishing-analysis/blob/13eed7dfcb483a088624
 alt="VirusTotal screenshot for freegiftcodegenerator[.]com IP address" width="300"/>
 
 The IP address has been marked as malicious.
+Next we can select Relations in VirusTotal:
 
+<img
+src="https://github.com/thequietlife/phishing-analysis/blob/dd0bf40b49b4c422ef6dc29897042e4bbc095b9c/images/freegiftcard_relations.png"
+alt="VirusTotal screenshot for freegiftcodegenerator[.]com Relations" width="300"/>
 
-
+Here we can see one URL that has been flagged and several results for malicious files.
