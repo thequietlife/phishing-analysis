@@ -36,3 +36,11 @@ src="https://github.com/thequietlife/phishing-analysis/blob/dd0bf40b49b4c422ef6d
 alt="VirusTotal screenshot for freegiftcodegenerator[.]com Relations" width="300"/>
 
 Here we can see one URL that has been flagged and several results for malicious files.
+
+We can dig a bit further by using some other tools. Using DomainTools we can have a look at the Whois Record.
+
+<img
+src="https://github.com/thequietlife/phishing-analysis/blob/d743f71b35bafb473f32320ade30afa81165a7b3/images/free%20gift_DomainTools.png"
+alt="Whois record from DomainTools" width="300"/>
+
+
