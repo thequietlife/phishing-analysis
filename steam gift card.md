@@ -43,7 +43,7 @@ We can dig a bit further by using some other tools. Using DomainTools we can hav
 src="https://github.com/thequietlife/phishing-analysis/blob/d743f71b35bafb473f32320ade30afa81165a7b3/images/free%20gift_DomainTools.png"
 alt="Whois record from DomainTools" width="300"/>
 
-The Whois record gives us the date the site was created, who it is registered with and the website host.
+The Whois record gives us the date the site was created, the company it is registered with and the website host.
 
 Here we find a screenshot of the freegiftcodegenerator[.]com website. The website looks pretty basic and the logos do not look real.
 
@@ -53,4 +53,4 @@ alt="screenshot of the freegiftcodegenerator[.]com website" width="300"/>
 
 <img
 src="https://github.com/thequietlife/phishing-analysis/blob/e9a6c5c7f0f6aba8562279bb32799dabe7c73c41/images/freegift_urlscan.png"
-alt=screenshot of urlscan results" width="300"/>
+alt="screenshot of urlscan results" width="300"/>
