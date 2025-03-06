@@ -1,6 +1,6 @@
 ## 🎮 Steam gift card analysis
 
-I did a search of scam texts during the week. I found the following scam texts:
+I did a search for scams during the week. I found the following:
 - fake job interview meeting details
 - tax department (US tax time)
 - tolls
