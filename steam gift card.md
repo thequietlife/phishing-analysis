@@ -15,6 +15,8 @@ alt="post found on x/twitter about free gift cards" width="300"/>
 ⚠️ A post about "free" gaming gift cards is enticing. 
 Our first step is to search for the URL on [VirusTotal](https://www.virustotal.com/gui/home/upload).
 
+We can try some other tools to dig for more information. Let's go with [DomainTools](https://whois.domaintools.com/)
+
 <img
 src="https://github.com/thequietlife/phishing-analysis/blob/a0fefdc829816250a0092d0d2f997074d9183dde/images/freegiftcard_VirusTotal.png"
 alt="VirusTotal screenshot for freegiftcodegenerator[.]com URL search" width="300"/>
