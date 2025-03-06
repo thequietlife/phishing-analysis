@@ -43,4 +43,10 @@ We can dig a bit further by using some other tools. Using DomainTools we can hav
 src="https://github.com/thequietlife/phishing-analysis/blob/d743f71b35bafb473f32320ade30afa81165a7b3/images/free%20gift_DomainTools.png"
 alt="Whois record from DomainTools" width="300"/>
 
+Here we find a screenshot of the freegiftcodegenerator[.]com website. The website looks pretty basic and the logos do not look real.
+
+<img
+src="https://github.com/thequietlife/phishing-analysis/blob/944cd067d69ff146597bd2bfbe368b4bcd5b183a/images/free%20gift_screenshot.png"
+alt="screenshot of the freegiftcodegenerator[.]com website" width="300"/>
+
 
