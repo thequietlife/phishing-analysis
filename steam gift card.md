@@ -51,7 +51,7 @@ Here we find a screenshot of the freegiftcodegenerator[.]com website. 🚨 The w
 src="https://github.com/thequietlife/phishing-analysis/blob/944cd067d69ff146597bd2bfbe368b4bcd5b183a/images/free%20gift_screenshot.png"
 alt="screenshot of the freegiftcodegenerator[.]com website" width="300"/>
 
-Running the URL through urlscan gives us a bit more information:
+Running the URL through urlscan gives us a bit more information:<br>
 <img
 src="https://github.com/thequietlife/phishing-analysis/blob/e9a6c5c7f0f6aba8562279bb32799dabe7c73c41/images/freegift_urlscan.png"
 alt="screenshot of urlscan results" width="300"/>
