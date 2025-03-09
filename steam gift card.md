@@ -45,7 +45,7 @@ alt="Whois record from DomainTools" width="300"/>
 
 The Whois record gives us the date the site was created, the company it is registered with and the website host.
 
-Here we find a screenshot of the freegiftcodegenerator[.]com website. The website looks pretty basic and the logos do not look real.
+Here we find a screenshot of the freegiftcodegenerator[.]com website. 🚨 The website looks pretty basic and the logos do not look real.
 
 <img
 src="https://github.com/thequietlife/phishing-analysis/blob/944cd067d69ff146597bd2bfbe368b4bcd5b183a/images/free%20gift_screenshot.png"
