@@ -43,9 +43,12 @@ We can dig a bit further by using some other tools. Using DomainTools we can hav
 src="https://github.com/thequietlife/phishing-analysis/blob/d743f71b35bafb473f32320ade30afa81165a7b3/images/free%20gift_DomainTools.png"
 alt="Whois record from DomainTools" width="300"/>
 
-The Whois record gives us the date the site was created, the company it is registered with and the website host.
+The Whois record gives us the date the site was created, the company it is registered with and the website host. 
+- It was created on 2015-05-2. 🕰️ Ten years ago!
+- It was registered with PDR - PublicDomainRegistry[.]com
+- Hosted by Bluehost.
 
-Here we find a screenshot of the freegiftcodegenerator[.]com website. 🚨 The website looks pretty basic and the logos do not look real.
+Here we find a screenshot of the freegiftcodegenerator[.]com website. 🚨 The website looks pretty basic and the logo branding does not look real.
 
 <img
 src="https://github.com/thequietlife/phishing-analysis/blob/944cd067d69ff146597bd2bfbe368b4bcd5b183a/images/free%20gift_screenshot.png"
@@ -60,4 +63,15 @@ alt="screenshot of urlscan results" width="300"/>
 src="https://github.com/thequietlife/phishing-analysis/blob/a19501922746a337627351a03c386470ebda2a9d/images/freegift_urlscan%202.png"
 alt="screenshot of urlscan results done again shows a different IP address" width="300"/>
 
+Well that was an interesting one to start with. <br>
+<img
+src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGdkMG4xcW9sZ2JpamJuNWVibDdocWcyeWVmcDFqZmRpcHE5cjM2dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUOxf0J6CO5hH2cZ7W/giphy.gif"
+alt="hat tip to BushidoToken" width="300"/>
 
+Big thank you to BushidoToken for sharing how he analyses SMS phishing text messages.
+
+__________________
+References: 
+1. [Gone Phishing, BushidoToken](https://blog.bushidotoken.net/2020/05/gone-phishing.html)
+2. [Investigating SMS phishing text messages from scratch](https://blog.bushidotoken.net/2023/07/investigating-sms-phishing-text.html)
+3. 
