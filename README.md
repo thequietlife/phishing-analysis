@@ -1,7 +1,6 @@
 ### Phishing analysis
 
-</p>
-<p align="center">
+
 <img
 src="https://github.com/thequietlife/phishing-analysis/blob/82ea8f2795cef1b1e6cd3314814f0171d9ce1f60/images/steam%20card%20hack.png"
 alt="steam gift card scam on discord" width="300"/>
