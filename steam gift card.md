@@ -74,4 +74,4 @@ __________________
 References: 
 1. [Gone Phishing, BushidoToken](https://blog.bushidotoken.net/2020/05/gone-phishing.html)
 2. [Investigating SMS phishing text messages from scratch](https://blog.bushidotoken.net/2023/07/investigating-sms-phishing-text.html)
-3. 
+   
