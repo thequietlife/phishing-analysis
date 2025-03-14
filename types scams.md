@@ -1,4 +1,4 @@
-## Types of scams found in the wild Feb 2025 - Jun 2024
+## Types of scams found in the wild 
 
 | Date    | Type  |
 | -------- | ------- |
