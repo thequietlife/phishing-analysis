@@ -1,4 +1,4 @@
-## 💥 Types of scams found in the wild
+## Types of scams found in the wild
 
 | Month    | Type  |
 | -------- | ------- |
