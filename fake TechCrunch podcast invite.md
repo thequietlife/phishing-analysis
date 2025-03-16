@@ -24,7 +24,19 @@ Sat 15 Feb <br>
 12:12PM. Victim provides three timeslots. <br>
 12:50PM. Threat actor sends invite to podcast. It appears as Google calendar. <br>
 
-Victim accepts invitation which opens a "Authorising Google Calendar to access 
+* Victim accepts invitation which opens a "Authorize Google Calendar to access your account?"
+* This leads to a Calendly scheduling link
+* Calendar event name appears as "Confirmed: Pre Discussion with Pre Discussion - 30 Minutes on Wednesday, February 19, 2025"
+
+Wed 19 Feb <br>
+Victim notices their X profile has updated and realises the account has been compromised.
+
+Thur 20 Feb
+Victim gets ready for call:
+1. The calendar event has no meeting link
+2. Sees the name and email address of the sender - a unique private duck address, and realises how the X bio was changed.
+
+
 
 
 
