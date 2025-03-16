@@ -6,13 +6,15 @@ startup founders and ask them to appear on a podcast.
 X.com via a DM
 
 ### How: 
-The calendar invite appears to be a Google calendar invite. But the URL actually is a malicious Calendly link. The URL is shortened thereby hiding 
-it's true address. Once the invite had been accepted the threat actor has access to edit the victim's X account. They are able to pose as the victim and 
-post a crypto token promotion; delete the victim's bio and pinned posts.
+The calendar invite appears to be a Google calendar invite. But the URL actually is a malicious Calendly link. The URL is shortened thereby hiding it's true address. Once the invite had been accepted the threat actor has access to edit the victim's X account. 
+
+### Why: 
+The threat actor posts as the victim and posts a crypto token promotion (cryptocurrency Signa).
 
 ### Timeline Analysis:
 
 **2025** <br>
+
 **Thur 13 Feb** <br>
 7:24AM. Victim receives DM on X from a threat actor posing as a TechCrunch journalist inviting them to be on a podcast. <br>
 <br>
@@ -38,7 +40,8 @@ Victim gets ready for call:
 
 
 
-
+h/t [Alex Banks for sharing what happened](https://x.com/thealexbanks/status/1892278711267053641)
+h/t [Jake | JCyberSec_ for their analysis](https://x.com/JCyberSec_/status/1892475501274358054)
 
 
 
