@@ -64,11 +64,8 @@ src="https://github.com/thequietlife/phishing-analysis/blob/a19501922746a3376273
 alt="screenshot of urlscan results done again shows a different IP address" width="300"/>
 
 Well that was an interesting one to start with. <br>
-<img
-src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGdkMG4xcW9sZ2JpamJuNWVibDdocWcyeWVmcDFqZmRpcHE5cjM2dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUOxf0J6CO5hH2cZ7W/giphy.gif"
-alt="hat tip to BushidoToken" width="300"/>
 
-Big thank you to BushidoToken for sharing how he analyses SMS phishing text messages.
+h/t to BushidoToken for sharing how he analyses SMS phishing text messages.
 
 __________________
 References: 
