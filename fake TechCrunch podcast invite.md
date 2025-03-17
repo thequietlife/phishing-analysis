@@ -1,6 +1,6 @@
+
 ### About: 
-A recent phishing campaign has used a fake request to appear on a TechCrunch podcast as its lure. Posing as a TechCrunch journalist they approached
-startup founders and ask them to appear on a podcast. 
+A recent phishing campaign has used a fake request to appear on a TechCrunch podcast as its lure. Posing as a TechCrunch journalist they approached AI startup founders and ask them to appear on a podcast. 
 
 ### Where: 
 X.com via a DM
@@ -9,7 +9,7 @@ X.com via a DM
 The calendar invite appears to be a Google calendar invite. But the URL actually is a malicious Calendly link. The URL is shortened thereby hiding it's true address. Once the invite had been accepted the threat actor has access to edit the victim's X account. 
 
 ### Why: 
-The threat actor posts as the victim and posts a crypto token promotion (cryptocurrency Signa).
+The threat actor posts as the victim and posts a crypto token promotion (cryptocurrency Signa). They get people to buy tokens and then they sell them to make a profit. But the people who have bought into it do not make any money. Referred to as "pump and dump". 
 
 ### Timeline Analysis:
 
@@ -40,9 +40,11 @@ Victim gets ready for call:
 
 
 
-h/t [Alex Banks for sharing what happened](https://x.com/thealexbanks/status/1892278711267053641)
-h/t [Jake | JCyberSec_ for their analysis](https://x.com/JCyberSec_/status/1892475501274358054)
+End Notes:
 
+h/t [Alex Banks for sharing what happened](https://x.com/thealexbanks/status/1892278711267053641) <br>
+h/t [Jake | JCyberSec_ for their analysis](https://x.com/JCyberSec_/status/1892475501274358054)
+[X hacking spree fuels "$HACKED" crypto token pump-and-dump](https://www.bleepingcomputer.com/news/security/x-hacking-spree-fuels-hacked-crypto-token-pump-and-dump/)
 
 
 
