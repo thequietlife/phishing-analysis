@@ -40,10 +40,10 @@ Victim gets ready for call:
 
 
 
-End Notes:
+**End Notes:**
 
 h/t [Alex Banks for sharing what happened](https://x.com/thealexbanks/status/1892278711267053641) <br>
-h/t [Jake | JCyberSec_ for their analysis](https://x.com/JCyberSec_/status/1892475501274358054)
+h/t [Jake | JCyberSec_ for their analysis](https://x.com/JCyberSec_/status/1892475501274358054) <br>
 [X hacking spree fuels "$HACKED" crypto token pump-and-dump](https://www.bleepingcomputer.com/news/security/x-hacking-spree-fuels-hacked-crypto-token-pump-and-dump/)
 
 
