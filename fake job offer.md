@@ -6,8 +6,8 @@ A iMessage offering an enticing job. This has been in circulation for at least o
 
 
 <img
-src=“xx”
-alt=“iMessage posing as a recruiter offering an job” width="400"/>
+src="https://github.com/thequietlife/phishing-analysis/blob/1bbb18a5f71e168e53fc2f98eb0e9aa604f85721/images/recruiter%20at%20seek%20ltd.png"
+alt="iMessage posing as a recruiter offering an job" width="400"/>
 
 
 ### Where: 
@@ -23,9 +23,14 @@ The victim needs to deposit money to commence and then deposit more money to get
 
 * Initial WhatsApp message explains optimizing apps
 * Victim needs to deposit $100 to start. This “resets” the tasks. Each victim gets 120 tasks which are divided into 3 sets to 40
+* Victim needs to use Cash App
 * “Lucky tasks” means the victim has to get their account out of the negative by finishing their tasks. They get a bonus for each task completed and can then withdraw the money they have “earned”. They can also earn a higher bonus if they “win”
 * Once the victim earns a certain amount of money, e.g. $1500, they need to deposit $5000 to withdraw all their earnings
 
+### Example of URL
+
+- hxxp[:]//dripshop.xyz
+- hxxp[:]//ww25.dripshop.xyz
 
 **End Notes:**
 
