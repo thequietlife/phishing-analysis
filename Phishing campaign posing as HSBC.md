@@ -14,7 +14,7 @@ alt="screenshot of the phishing site" width="400"/>
 
 <img
 src="https://github.com/thequietlife/phishing-analysis/blob/21a8134442e2c497023a60e710318c7fcc375f9c/images/hsbcy.com%20code.png"
-alt="code from hscby[.]com" width="400"/>
+alt="code from hscby[.]com" width="800"/>
 
 ### Notes:
 
