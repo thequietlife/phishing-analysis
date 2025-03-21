@@ -10,5 +10,5 @@ alt="VirusTotal scan of website" width="500"/>
 
 ### Notes:
 
-* Similiar lure to the fake HSBC scam, urgent need for action.
+* Similiar lure to the fake HSBC scam, urgent need for action with points.
 * Using VirusTotal can see three security vendors have flagged the website as a phishing site or suspicious.
