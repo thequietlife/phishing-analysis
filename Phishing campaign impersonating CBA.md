@@ -13,6 +13,6 @@ alt="whois record for cbahome[.]info" width="400"/>
 * Uses call spoofing/caller id spoofing
 * The whois record gives us a bit of intel.
   - Date created: a few days ago
-  - Registrar details: Name,Silo
+  - Registrar details: NameSilo
   - Host: cloudlflare
 * 
