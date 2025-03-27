@@ -14,7 +14,11 @@ alt="more domaintools record for cbahome[.]info" width="500"/>
 
 <img
 src="https://github.com/thequietlife/phishing-analysis/blob/2a242a711eb286edf04ec1279b41843f84b6a2be/images/cba_screenshot.png"
-alt="screenshotfor cbahome[.]info" width="500"/>
+alt="screenshot for cbahome[.]info" width="500"/>
+
+<img
+src="https://github.com/thequietlife/phishing-analysis/blob/32394521c0746d0ff1192b5e5456085512c5e5cd/images/cba%20actual.png"
+alt="screenshot legit CBA website" width="500"/>
 
 
 ### Notes:
@@ -25,4 +29,6 @@ alt="screenshotfor cbahome[.]info" width="500"/>
   - Registrar details: NameSilo
   - Host: Cloudlflare
   - IP address
-* One line is of interest in the Whois Record "Domain Status: pendingDelete". 
+* One line is of interest in the Whois Record "Domain Status: pendingDelete".
+* Screenshot of the phishing site before it was taken down
+* Screenshot of the actual Commbank website for comparison. 
