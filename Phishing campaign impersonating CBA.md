@@ -8,6 +8,10 @@ alt="SMS supposedly from Commonwealth Bank" width="400"/>
 src="https://github.com/thequietlife/phishing-analysis/blob/93d25bc8c9854e55622be2e8c53c4aaeb4a2a518/images/cba%20domaintools.png"
 alt="domaintools record for cbahome[.]info" width="500"/>
 
+<img
+src="https://github.com/thequietlife/phishing-analysis/blob/ee8ac56d03a6457beece9621f49afcdc29db94cf/images/cba%20whois_2.png"
+alt="more domaintools record for cbahome[.]info" width="500"/>
+
 
 ### Notes:
 
@@ -17,4 +21,4 @@ alt="domaintools record for cbahome[.]info" width="500"/>
   - Registrar details: NameSilo
   - Host: Cloudlflare
   - IP address
-* 
+* One line is of interest in the Whois Record "Domain Status: pendingDelete". 
