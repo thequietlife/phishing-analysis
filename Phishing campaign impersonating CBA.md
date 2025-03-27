@@ -12,6 +12,10 @@ alt="domaintools record for cbahome[.]info" width="500"/>
 src="https://github.com/thequietlife/phishing-analysis/blob/ee8ac56d03a6457beece9621f49afcdc29db94cf/images/cba%20whois_2.png"
 alt="more domaintools record for cbahome[.]info" width="500"/>
 
+<img
+src="https://github.com/thequietlife/phishing-analysis/blob/2a242a711eb286edf04ec1279b41843f84b6a2be/images/cba_screenshot.png"
+alt="screenshotfor cbahome[.]info" width="500"/>
+
 
 ### Notes:
 
