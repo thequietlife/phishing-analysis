@@ -1,5 +1,7 @@
 ### Phishing analysis | Scams
 
+- 26 Mar 2025 [Phishing campaign impersonating CommBank](https://github.com/thequietlife/phishing-analysis/blob/1126a930a91bcde9044482c1268d3029335cbc5a/Phishing%20campaign%20impersonating%20CBA.md)
+- 25 Mar 2025 [Zine issue number 01](https://github.com/thequietlife/phishing-analysis/blob/1126a930a91bcde9044482c1268d3029335cbc5a/images/zine%20issue%2001.png)
 - 21 Mar 2025 [Phishing campaign impersonating Maybank](https://github.com/thequietlife/phishing-analysis/blob/7df828150e54acbc484292a1413707401d3eec8c/Phishing%20campaign%20impersonating%20Maybank.md)
 - 21 Mar 2025 [Phishing campaign posing as HSBC](https://github.com/thequietlife/phishing-analysis/blob/7a1423d536f332d8bf9d6e047b17ad7917747515/Phishing%20campaign%20posing%20as%20HSBC.md)
 - 18 Mar 2025 [Fake job offer](https://github.com/thequietlife/phishing-analysis/blob/f6389ca8fdcbee4835b25124e55c1549d78abb39/fake%20job%20offer.md)
