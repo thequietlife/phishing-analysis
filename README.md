@@ -1,6 +1,7 @@
 ### Phishing analysis | Scams
 
-- 27 Mar 2025 [Discovery Bank account not FICA compliant]
+- 28 Mar 2025 [Aus Election Postal Vote]
+- 27 Mar 2025 [Discovery Bank account not FICA compliant](https://github.com/thequietlife/phishing-analysis/blob/f514b03c78e704fdfdb50cbc7fb1bd9e1947d77a/Discovery%20Bank%20account%20not%20FICA%20compliant.md)
 - 27 Mar 2025 [Canadian Election Voting Preferences](https://github.com/thequietlife/phishing-analysis/blob/1d337775f1cfcd73d1f2d3ef7c67cac97d7afbba/Canadian%20Election%20Voting%20Preferences.md)
 - 26 Mar 2025 [Phishing campaign impersonating CommBank](https://github.com/thequietlife/phishing-analysis/blob/57e101185dd58887c997d46ffad5d8c5effc34d7/Phishing%20campaign%20impersonating%20CBA.md)
 - 25 Mar 2025 [Zine issue number 01](https://github.com/thequietlife/phishing-analysis/blob/1126a930a91bcde9044482c1268d3029335cbc5a/images/zine%20issue%2001.png)
