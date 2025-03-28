@@ -15,13 +15,17 @@ src="https://github.com/thequietlife/phishing-analysis/blob/81383230ffcc053c5d68
 alt="screenshots of postal[.]vote" width="800"/>
 
 <img
+src="https://github.com/thequietlife/phishing-analysis/blob/cad93d197ec556a1759b030103b293fd1cbeb705/images/closeup%20postal_vote.png"
+alt="close up of screenshot postal[.]vote" width="400"/>
+
+<img
 src="https://github.com/thequietlife/phishing-analysis/blob/6b3d5281a57d3109804671d78490ec9cb73979a5/images/aec%20postal%20vote.png"
-alt="postal voting criteria Australian Electoral Commission." width="300"/>
+alt="postal voting criteria Australian Electoral Commission." width="400"/>
 
 
 ### Notes:
 
-* Call spoofing/caller id spoofing used
+* Call spoofing/caller id spoofing used so it looks like it is from the Liberal Party
 * The Whois record gives us a few pieces of intel
   - Date created: not new, 1327 days ago
   - Registrar: Synergy Wholesale
@@ -29,4 +33,5 @@ alt="postal voting criteria Australian Electoral Commission." width="300"/>
   - IP address
 * The screenshots look sketchy, one version is in German.
 * When compared to the wording on Australian Electoral Commission it is missing some bullet points.
+* Action: delete, report.
 
