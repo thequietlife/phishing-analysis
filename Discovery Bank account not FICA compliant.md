@@ -14,12 +14,10 @@ alt="screenshot of Ricio[.]click" width="400"/>
 
 ### Notes:
 
-
-
-
 * Not a legit sms from Discovery Bank
 * The Whois record give us a few pieces of intel
   - Date created: 120 days ago
   - Registrar details: Tucows
   - Host: system dns
   - IP address
+* The screenshot uses a link shortener 
