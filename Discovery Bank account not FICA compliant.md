@@ -12,6 +12,11 @@ alt="Whois record for Ricio[.]click" width="400"/>
 src="https://github.com/thequietlife/phishing-analysis/blob/159e5cc019a72c720276edfd4d5e819865a0eb4d/images/discovery%20bank%20URL%20screenshot.png"
 alt="screenshot of Ricio[.]click" width="400"/>
 
+<img
+src="https://github.com/thequietlife/phishing-analysis/blob/b791b14618f391bbf52f09f57eab40babcd31682/images/ricio_virustotal.png"
+alt="virustotal record for Ricio[.]click" width="400"/>
+
+
 ### Notes:
 
 * Not a legit sms from Discovery Bank
@@ -21,3 +26,4 @@ alt="screenshot of Ricio[.]click" width="400"/>
   - Host: system dns
   - IP address
 * The screenshot uses a link shortener 
+* One security vendor has flagged the URL as suspicious
