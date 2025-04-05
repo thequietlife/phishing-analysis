@@ -32,6 +32,6 @@ alt="postal voting criteria Australian Electoral Commission." width="400"/>
   - Host: Cloudflare
   - IP address
 * The screenshots look sketchy, one version is in German.
-* When compared to the wording on Australian Electoral Commission it is missing some bullet points.
-* Action: delete, report.
+* When compared to the wording on Australian Electoral Commission (AEC) it is missing some bullet points.
+* If it is legit, why isn't it linking to the AEC?
 
