@@ -25,13 +25,6 @@ alt="postal voting criteria Australian Electoral Commission." width="400"/>
 
 ### Notes:
 
-* Call spoofing/caller id spoofing used so it looks like it is from the Liberal Party
-* The Whois record gives us a few pieces of intel
-  - Date created: not new, 1327 days ago
-  - Registrar: Synergy Wholesale
-  - Host: Cloudflare
-  - IP address
-* The screenshots look sketchy, one version is in German.
 * When compared to the wording on Australian Electoral Commission (AEC) it is missing some bullet points.
 * If it is legit, why isn't it linking to the AEC?
 
