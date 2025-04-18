@@ -28,3 +28,4 @@ alt="A x user posted a screenshot of the phishing site" width="400"/>
 * Similiar lure to the fake HSBC scam, urgent need for action with points.
 * Using VirusTotal can see three security vendors have flagged the website as a phishing site or suspicious.
 * Looking on urlscan we can see the site is down. Perhaps it has been taken down unless it is using Cloudflare's bot fight mode.
+* One month later and this SMS is still doing the rounds.
