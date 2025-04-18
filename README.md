@@ -1,5 +1,6 @@
 ### Phishing analysis | Scams
 
+- 18 Apr 2025 [Phishing campaign impersonating Maybank](https://github.com/thequietlife/phishing-analysis/blob/716fe98725a7d7bf65eb404d62d86ff27987b104/Phishing%20campaign%20impersonating%20Maybank.md)
 - 29 Mar 2025 [Evri parcel delivery themed phishing campaign](https://github.com/thequietlife/phishing-analysis/blob/43ee69a1c7858301a371a56d4d795c08f95246e7/Evri%20parcel%20delivery%20phishing%20campaign.md)
 - 27 Mar 2025 [Discovery Bank account not FICA compliant](https://github.com/thequietlife/phishing-analysis/blob/f514b03c78e704fdfdb50cbc7fb1bd9e1947d77a/Discovery%20Bank%20account%20not%20FICA%20compliant.md)
 - 27 Mar 2025 [Canadian Election Voting Preferences](https://github.com/thequietlife/phishing-analysis/blob/1d337775f1cfcd73d1f2d3ef7c67cac97d7afbba/Canadian%20Election%20Voting%20Preferences.md)
