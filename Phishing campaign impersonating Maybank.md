@@ -16,6 +16,11 @@ alt="urlscan results from the website" width="500"/>
 src="https://github.com/thequietlife/phishing-analysis/blob/098a95a40d6de9f4b7dea3b510ea4d2a6931282b/images/Maybank%20April.png"
 alt="Another SMS. One month later" width="400"/>
 
+<img
+src="https://github.com/thequietlife/phishing-analysis/blob/82b531eb82290ddbfe5290e77b8521c945569e47/images/Maybank%20auth%20app.png"
+alt="screenshot of Maybank actual app" width="400"/>
+
+
 ### Phishing Site
 
 <img
@@ -29,3 +34,4 @@ alt="A x user posted a screenshot of the phishing site" width="400"/>
 * Using VirusTotal can see three security vendors have flagged the website as a phishing site or suspicious.
 * Looking on urlscan we can see the site is down. Perhaps it has been taken down unless it is using Cloudflare's bot fight mode.
 * One month later and this SMS is still doing the rounds.
+* Phishing site appears to have been taken down.
