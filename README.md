@@ -14,3 +14,19 @@
 - Feb 2025 [Steam gift card scam](https://github.com/thequietlife/phishing-analysis/blob/0e70b81b6fcb7ea2958986c3c997b5ef73426a1c/steam%20gift%20card.md)
 - Jun 2024 - Feb 2025 [Types of scams](https://github.com/thequietlife/phishing-analysis/blob/b679b6cd6b2a92768113bf9ced381f486cd5b593/types%20scams.md)
 
+
+## Types of scams found in the wild 
+
+| Date    | Type  |
+| -------- | ------- |
+| Apr 2025 | Reward points    |
+| Mar 2025 | [Wrong number](https://github.com/thequietlife/phishing-analysis/blob/f3ff9fb7837c6b4f7599d425809295471ab786f8/images/wrong%20number%201.png")|
+| Feb 2025  | Steam (games), Tolls (Aus, US), Meeting invite for fake press interview, Job interview, IRS, gift cards (discord)   |
+| Jan 2025 | Tolls    |
+| Dec 2024 | Tolls   |
+| Oct 2024  | Winter fuel payments (UK winter)    |
+| Sep 2024  | Parking tickets, Tolls, Telstra Plus points (loyalty points), Medicare (update personal details), Tax (Aus, log in to read statement)  |
+| Jul 2024  | Tolls (New York), US election fundraising, [Romance (dating site > crypto trading)](https://www.bbb.org/scamtracker/lookupscam/869604)    |
+| Jun 2024  | Supermarket reward points    |
+
+
