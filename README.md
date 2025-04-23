@@ -1,6 +1,6 @@
 ### Phishing analysis | Scams
 
-- 23 Apr 2025 [Binance] WIP
+- 23 Apr 2025 [Binance](https://github.com/thequietlife/phishing-analysis/blob/aeda944b6f9da3c705ded0415f2bb945f2ec450a/Binance.md)
 - 18 Apr 2025 [Reward Points](https://github.com/thequietlife/phishing-analysis/blob/716fe98725a7d7bf65eb404d62d86ff27987b104/Phishing%20campaign%20impersonating%20Maybank.md)
 - 29 Mar 2025 [Evri parcel delivery themed phishing campaign](https://github.com/thequietlife/phishing-analysis/blob/43ee69a1c7858301a371a56d4d795c08f95246e7/Evri%20parcel%20delivery%20phishing%20campaign.md)
 - 27 Mar 2025 [Discovery Bank account not FICA compliant](https://github.com/thequietlife/phishing-analysis/blob/f514b03c78e704fdfdb50cbc7fb1bd9e1947d77a/Discovery%20Bank%20account%20not%20FICA%20compliant.md)
