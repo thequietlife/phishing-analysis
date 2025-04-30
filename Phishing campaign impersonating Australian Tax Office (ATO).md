@@ -5,6 +5,9 @@ src="https://github.com/thequietlife/phishing-analysis/blob/23e2993daaef59f2faf9
 alt="SMS supposedly from ATO" width="400"/>
 
 
+<img
+src="https://github.com/thequietlife/phishing-analysis/blob/367b54e47efbbcd2071efabb137616d1afc4ab31/images/challenge%20platform.png"
+alt="challenge platform" width="400"/>
 
 ### Notes:
 
