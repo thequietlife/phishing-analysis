@@ -13,7 +13,10 @@ alt="challenge platform" width="400"/>
 
 * A SMS text I received a few days ago.
 * I wasn't able to access the phishing page at first. When I looked in the dev tools I could see it is using Cloudflare's Bot Fight Mode. h/t to @BushidoUK for this tip.
-* 
+* The aim of the site is to collect users personal information by pretending to set up their ATO user account.
+* The phishing site opens to a sign in page and then moves to a enter a SMS verification code. I was able to step through the phishing kit by entering fake information. 
+* The next page was to set up secret questions. There is a skip button to bypass this and progress further.
+
 
 
 
