@@ -73,9 +73,6 @@ alt="urlscan results" width="400"/>
   - Date created: 2025-04-24
   - Registrar: Nicenic 
   - Host: Cloudflare
-* URLscan: 
-* When I looked the next the site seems to have been taken down
-
 
 
 
