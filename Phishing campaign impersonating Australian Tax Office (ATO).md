@@ -47,6 +47,12 @@ alt="Pivots to real ATO website" width="400"/>
 
 🔟 <br>
 <img
+src="https://github.com/thequietlife/phishing-analysis/blob/58c993cc98d5734ab655f7383a0530ef9dfe14b9/images/whois_myatotasks.png"
+alt="Whois record" width="400"/>
+
+
+1️⃣1️⃣ <br>
+<img
 src="https://github.com/thequietlife/phishing-analysis/blob/74fff5b702f735ec290c7b2fc92ff1f11dbb8b5c/images/urlscan%20myatotasks.png"
 alt="urlscan results" width="400"/>
 
@@ -63,7 +69,12 @@ alt="urlscan results" width="400"/>
 * The next page asks for Name and Date of Birth.
 * The message says a medicare card and drivers licence is needed but only the drivers licence needs to be uploaded before it finishes up.
 * The next page is clumsily worded with a typo but also mentioning income statement. The browser then pivots to the actual ATO website.
-
+* Time for some OSINT research. The Whois record gives us a few pieces of intel:
+  - Date created: 2025-04-24
+  - Registrar: Nicenic 
+  - Host: Cloudflare
+* URLscan: 
+* When I looked the next the site seems to have been taken down
 
 
 
