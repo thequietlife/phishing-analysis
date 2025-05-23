@@ -4,7 +4,7 @@
   
 | Date    | Type  |
 | -------- | ------- |
-| May 2025 | Cryptocurrency Job Scams |
+| May 2025 | [Cryptocurrency job scam](https://github.com/thequietlife/phishing-analysis/blob/8c3907ab389b250822941cf3ccf8373a2266f004/crypto%20job%20scam.md) |
 | May 2025 | [Phishing campaign impersonating Australian Tax Office (ATO)](https://github.com/thequietlife/phishing-analysis/blob/f8ef534bb57f32eb160d9d7fce8ff71feb64d8bf/Phishing%20campaign%20impersonating%20Australian%20Tax%20Office%20(ATO).md)|
 | Apr 2025 | [Parcel delivery](https://github.com/thequietlife/phishing-analysis/blob/a595e844c0018c09a068a4b9f4f428b3475c6ca0/parcel%20delivery%20(France).md) |
 | Apr 2025 | [Binance](https://github.com/thequietlife/phishing-analysis/blob/aeda944b6f9da3c705ded0415f2bb945f2ec450a/Binance.md) |
